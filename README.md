@@ -1,5 +1,6 @@
 # qb-djbooth
 Play music on configured coords!
+This repo is NOt mine I am just using it for party location.
 
 ## Dependencies
 * [xsound](https://github.com/Xogy/xsound)
